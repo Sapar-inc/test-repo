@@ -8,14 +8,6 @@ let desktop = [
                 ]
     },
     {
-        name:"Folder 2",
-        folders: [
-                {name:"SubFolder 4"},
-                {name:"SubFolder 5"},
-                {name:"SubFolder 6"},
-                 ]
-    },
-    {
         name:"Folder 3",
         folders: [
                 {name:"SubFolder 7"},
